@@ -21,7 +21,7 @@ Testing the server and client
 
 ## PROGRAM:
 
-###Server code:
+### Server code:
 ```python
 import socket
 HOST = "127.0.0.1"  # Standard loopback interface address (localhost)
@@ -38,7 +38,7 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
                 break
             conn.sendall(data)
 ```
-###Client Code:
+### Client Code:
 ```python
 import socket
 HOST = "127.0.0.1"  # The server's hostname or IP address
@@ -50,6 +50,7 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
 print(f"Received {data!r}")
 ```
 ## OUTPUT:
+
 ![WhatsApp Image 2024-02-28 at 16 27 10_6316afcb](https://github.com/chandrumathiyazhagan/Echoserver/assets/119393023/7680413a-0395-45d6-8588-4d44d95a1366)
 
 ## RESULT:
