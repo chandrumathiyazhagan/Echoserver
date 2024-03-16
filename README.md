@@ -51,7 +51,12 @@ print(f"Received {data!r}")
 ```
 ## OUTPUT:
 
-![WhatsApp Image 2024-02-28 at 16 27 10_6316afcb](https://github.com/chandrumathiyazhagan/Echoserver/assets/119393023/7680413a-0395-45d6-8588-4d44d95a1366)
+### SERVER:
+![309799046-7680413a-0395-45d6-8588-4d44d95a1366](https://github.com/chandrumathiyazhagan/Echoserver/assets/119393023/8a783152-fbda-4369-8ba9-dc81b804e384)
+
+### CLIENT:
+![309799046-7680413a-0395-45d6-8588-4d44d95a1366 (1)](https://github.com/chandrumathiyazhagan/Echoserver/assets/119393023/ead81d9d-9a76-4a6c-9281-914ef31a24ba)
+
 
 ## RESULT:
 The program is executed successfully
